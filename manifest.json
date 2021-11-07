@@ -26,9 +26,7 @@
         {
             "matches": [
                 "https://github.com/*",
-                // "https://github.com/*/*/pull/*/files",
                 "https://gitlab.com/*"
-                // "https://gitlab.com/*/merge_requests/*/diffs"
             ],
             "js": [
                 "js/messenger.js"
